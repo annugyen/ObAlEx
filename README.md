@@ -11,6 +11,8 @@ ObAlEx is a new explanation quality metric to measure object aligned explanation
 * **[Michael Färber](https://www.aifb.kit.edu/web/Michael_Färber/en)**
 
 ## Paper
+[Nguyen, Anna; Adrian Oberföll; Färber, Michael. "Right for the Right Reasons: Making Image Classification Intuitively
+               Explainable."](https://doi.org/10.1007/978-3-030-72240-1\_32)
 ```
 @inproceedings{DBLP:conf/ecir/NguyenOF21,
   author    = {Anna Nguyen and
